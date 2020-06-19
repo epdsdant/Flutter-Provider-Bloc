@@ -1,6 +1,6 @@
 # Flutter - Perfect Eggs
 
-Um projeto feito em Flutter com Provider and Bloc com gerenciamento de estado e separação de widgets, views e bloc.
+Um projeto feito em Flutter com Provider e Bloc para gerenciamento de estado e separação de widgets, views e bloc.
 
 ## Getting Started
 
